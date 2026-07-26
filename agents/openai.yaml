@@ -1,0 +1,4 @@
+interface:
+  display_name: "MS CASTEP PL Generator"
+  short_description: "Generate validated PL/XSD packages for manual Gateway submission"
+  default_prompt: "Use $ms-castep-pl-generator to generate a fixed-spin CASTEP PL/XSD package, validate the document binding, and leave Gateway selection to me."
