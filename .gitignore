@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+config/*.local.bat
+generated/
+dist/
+*.zip
